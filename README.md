@@ -46,12 +46,6 @@ insights.
 visualization platforms - Google Looker.
 • Communication: Improved my ability to present data findings clearly and concisely.
 
-**Feedback and Evidence**
-
-Feedback from supervisors highlighted my attention to detail and analytical approach. Evidence of
-my contributions includes charts generated, reports submitted, and positive remarks during team
-meetings.
-
 **Challenges and Solutions**
 
 • Challenge: Encountered difficulties in merging large datasets due to discrepancies in data
@@ -61,17 +55,10 @@ formats.
 • Solution: Engaged with team members to clarify criteria and ensure accurate
 analyses.
 
-**Outcomes and Impact**
+**Outcome**
 
 • Successfully identified a significant decrease in sales for the "Others" category, allowing the
 Warehouse Team to strategize on stock management.
 • Provided insights that led to better understanding of customer behaviors, which can inform
 marketing strategies.
 
-**Conclusion**
-
-My internship experience was invaluable, providing practical knowledge and skills in data analysis.
-The projects I undertook were instrumental in not only enhancing my technical abilities but also
-developing a keen insight into sales dynamics and customer behavior. I appreciate the opportunity to
-contribute to the team's objectives and look forward to applying what I have learned in future
-endeavors.
