@@ -3,17 +3,12 @@ https://lookerstudio.google.com/reporting/d1ac30d9-1218-4736-b30d-6c4172b58887
 
 **Introduction**
 
-This report encapsulates my internship experience, where I undertook responsibilities focused on
-data analysis in the sales domain. The objective was to gain practical skills and contribute to the
-understanding of sales performance metrics.
+This project focuses on data analysis in the sales domain, aiming to uncover actionable insights from 
+historical sales and customer behavior data. The analysis supports informed business decisions, particularly 
+in stock management and customer engagement strategies.
 
-**Background**
 
-During the internship, I worked with the Warehouse and Customer Service Teams to analyze sales
-data and customer behaviors for different categories for different years. The primary goal was to
-derive actionable insights that could aid in business decision making.
-
-**Learning Objectives**
+**Objectives**
 
 1. To analyze sales trends over different years.
 2. To identify patterns in customer purchasing behavior.
